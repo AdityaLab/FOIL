@@ -5,7 +5,7 @@
     <img src="https://github.com/AdityaLab/FOIL/blob/main/Framework.png" width="500">
 </div>
 
-:triangular_flag_on_post:**News** (2024.06)  We are in the process of finalizing the code and will release it before early July.
+:triangular_flag_on_post:**News** (2024.06)  We are in the process of finalizing the code and will release it by July 11th.
 
 ## Citation
 
