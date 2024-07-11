@@ -6,7 +6,9 @@
 </div>
 
 :triangular_flag_on_post:**News** (2024.06)  We are in the process of finalizing the code and will release it by July 14.
-
+## Requirements
+Dependencies can be installed using the following file: 
+newtimelib_environment.yml
 ## Citation
 
 If you find this repo useful, please cite our paper.
@@ -26,5 +28,5 @@ hliu763@gatech.edu
 ## Acknowledgement
 
 This library is constructed based on the following repos:
-
+https://github.com/zhouhaoyi/Informer2020/
 https://github.com/thuml/Time-Series-Library/
