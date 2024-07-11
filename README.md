@@ -11,20 +11,20 @@ Dependencies can be installed using the following file:
 newtimelib_environment.yml
 ## Dataset
 You can obtain the well pre-processed datasets from [[Google Drive]](https://drive.google.com/drive/folders/13Cg1KYOlzM5C7K8gK8NfC-F3EYxkM3D2?usp=sharing) or [[Baidu Drive]](https://pan.baidu.com/s/1r3KhGd0Q9PJIUZdfEYoymg?pwd=i9iy), Then place the downloaded data in the folder`./dataset`
-## Try out foil
+## Try out FOIL
 Usecase
 Run Raw Informer on ILI dataset with Pred_Len=4:
-'''
+'''bash
 cd Informer-Raw
 python ILI-Pred4.py 
 '''
 Run Informer with FOIL on ILI dataset with Pred_Len=4:
-'''
+'''bash
 cd Informer+FOIL
-python ILI-Pred4-0.py #Infer Envrionment
-python ILI-Pred4-0.py #Learn Invariant Reperesentation
+python ILI-Pred4-0.py 
+python ILI-Pred4-0.py 
 '''
-
+*  First Infer Envrionment; Second Learn Invariant Reperesentation
 ## Citation
 
 If you find this repo useful, please cite our paper.
