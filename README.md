@@ -14,16 +14,16 @@ You can obtain the well pre-processed datasets from [[Google Drive]](https://dri
 ## Try out FOIL
 Usecase
 Run Raw Informer on ILI dataset with Pred_Len=4:
-'''bash
+```bash
 cd Informer-Raw
 python ILI-Pred4.py 
-'''
+```
 Run Informer with FOIL on ILI dataset with Pred_Len=4:
-'''bash
+```bash
 cd Informer+FOIL
 python ILI-Pred4-0.py 
 python ILI-Pred4-0.py 
-'''
+```
 *  First Infer Envrionment; Second Learn Invariant Reperesentation
 ## Citation
 
