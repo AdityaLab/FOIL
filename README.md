@@ -22,7 +22,7 @@ Run Informer with FOIL on ILI dataset with Pred_Len=4:
 ```bash
 cd Informer+FOIL
 python ILI-Pred4-0.py 
-python ILI-Pred4-0.py 
+python ILI-Pred4-1.py 
 ```
 *  First Infer Envrionment; Second Learn Invariant Reperesentation
 ## Citation
