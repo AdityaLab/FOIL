@@ -5,7 +5,6 @@
     <img src="https://github.com/AdityaLab/FOIL/blob/main/Framework.png" width="500">
 </div>
 
-:triangular_flag_on_post:**News** (2024.06)  We are in the process of finalizing the code and will release it by July 14.
 ## Requirements
 Dependencies can be installed using the following file: 
 newtimelib_environment.yml
@@ -30,11 +29,13 @@ python ILI-Pred4-1.py
 If you find this repo useful, please cite our paper.
 
 ```
-@article{liu2024time,
-  title={Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning},
-  author={Liu, Haoxin and Kamarthi, Harshavardhan and Kong, Lingkai and Zhao, Zhiyuan and Zhang, Chao and Prakash, B Aditya},
-  journal={arXiv preprint arXiv:2406.09130},
-  year={2024}
+@inproceedings{
+liu2024timeseries,
+title={Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning},
+author={haoxin liu and Harshavardhan Kamarthi and Lingkai Kong and Zhiyuan Zhao and Chao Zhang and B. Aditya Prakash},
+booktitle={Forty-first International Conference on Machine Learning},
+year={2024},
+url={https://openreview.net/forum?id=SMUXPVKUBg}
 }
 ```
 
