@@ -278,7 +278,7 @@ class Exp_Informer_Final(Exp_Basic):
                     model_optim.step()
                 
             if epoch > self.args.swa_start:
-            swa_optim.update_parameters(self.model)
+                swa_optim.update_parameters(self.model)
             train_loss_avg = np.average(train_loss_avg)
             train_loss_var = np.average(train_loss_var)
           
