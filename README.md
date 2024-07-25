@@ -45,6 +45,7 @@ hliu763@gatech.edu
 ## Acknowledgement
 
 This library is constructed based on the following repos:
+
 https://github.com/zhouhaoyi/Informer2020/
 
 https://github.com/thuml/Time-Series-Library/
